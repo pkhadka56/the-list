@@ -1,7 +1,8 @@
 # the-list
 
-bluesniff
+bluesniff\n
 BruteX
+
 burpsuite
 dirb222
 dirb.tar.gz
